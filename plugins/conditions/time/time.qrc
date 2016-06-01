@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/time/Condition.qml</file>
+        <file>qml/time/Editor.qml</file>
+        <file>qml/time/TimePicker.qml</file>
+        <file>qml/time/TimePeriodPicker.qml</file>
+        <file>qml/time/Picker.qml</file>
+        <file>gfx/time/clock.svg</file>
+        <file>ts/time/time_en.qm</file>
+        <file>ts/time/time_fi.qm</file>
+    </qresource>
+</RCC>

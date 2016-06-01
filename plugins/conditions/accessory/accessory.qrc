@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/accessory/Condition.qml</file>
+        <file>qml/accessory/Editor.qml</file>
+        <file>gfx/accessory/headphones.svg</file>
+        <file>ts/accessory/accessory_en.qm</file>
+        <file>ts/accessory/accessory_fi.qm</file>
+    </qresource>
+</RCC>

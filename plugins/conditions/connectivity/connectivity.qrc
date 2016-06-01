@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/connectivity/Condition.qml</file>
+        <file>qml/connectivity/Editor.qml</file>
+        <file>gfx/connectivity/connectivity.svg</file>
+        <file>ts/connectivity/connectivity_en.qm</file>
+        <file>ts/connectivity/connectivity_fi.qm</file>
+    </qresource>
+</RCC>

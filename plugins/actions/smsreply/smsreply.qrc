@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/smsreply/Action.qml</file>
+        <file>qml/smsreply/Editor.qml</file>
+        <file>gfx/smsreply/reply_message.svg</file>
+        <file>ts/smsreply/smsreply_en.qm</file>
+        <file>ts/smsreply/smsreply_fi.qm</file>
+    </qresource>
+</RCC>

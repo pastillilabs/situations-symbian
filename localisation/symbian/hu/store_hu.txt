@@ -1,0 +1,7 @@
+﻿A Situations használata a legegyszerűbb módja, hogy okostelefonod tényleg okos legyen!
+
+Minden nap változtatjuk telefonunk viselkedését, de valójában a telefonunknak kéne alkalmazkodnia attól függően, hogy épp hol vagyunk vagy mit csinálunk.
+
+Mostantól lenémíthatod a telefonodat, elindíthatod kedvenc hírolvasó alkalmazásodat, megnövelheted az üzemidőt, válaszolhatsz a hívásokra SMS-ben és még sok-sok mást is megtehetsz, mindezt teljesen automatikusan!
+
+Megjegyzés: A program megfelelő működéséhez telepítés után szükséges lehet újraindítani a készüléket!

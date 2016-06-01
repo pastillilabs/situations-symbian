@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/smssend/Action.qml</file>
+        <file>qml/smssend/Editor.qml</file>
+        <file>qml/smssend/Settings.qml</file>
+        <file>qml/smssend/ContactDialog.qml</file>
+        <file>gfx/smssend/create_message.svg</file>
+        <file>gfx/smssend/contacts.svg</file>
+        <file>ts/smssend/smssend_en.qm</file>
+        <file>ts/smssend/smssend_fi.qm</file>
+    </qresource>
+</RCC>

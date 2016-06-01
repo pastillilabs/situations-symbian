@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/mobilenetwork/Action.qml</file>
+        <file>qml/mobilenetwork/Editor.qml</file>
+        <file>qml/mobilenetwork/Settings.qml</file>
+        <file>gfx/mobilenetwork/reception.svg</file>
+        <file>ts/mobilenetwork/mobilenetwork_en.qm</file>
+        <file>ts/mobilenetwork/mobilenetwork_fi.qm</file>
+    </qresource>
+</RCC>

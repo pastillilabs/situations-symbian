@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/theme/Action.qml</file>
+        <file>qml/theme/Editor.qml</file>
+        <file>qml/theme/Settings.qml</file>
+        <file>gfx/theme/personalise.svg</file>
+        <file>ts/theme/theme_en.qm</file>
+        <file>ts/theme/theme_fi.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/launch/Action.qml</file>
+        <file>qml/launch/Editor.qml</file>
+        <file>qml/launch/Settings.qml</file>
+        <file>gfx/launch/applications.svg</file>
+        <file>gfx/launch/internet.svg</file>
+        <file>ts/launch/launch_en.qm</file>
+        <file>ts/launch/launch_fi.qm</file>
+    </qresource>
+</RCC>

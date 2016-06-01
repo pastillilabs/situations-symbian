@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/calendar/Condition.qml</file>
+        <file>qml/calendar/Editor.qml</file>
+        <file>gfx/calendar/calendar.svg</file>
+        <file>ts/calendar/calendar_en.qm</file>
+        <file>ts/calendar/calendar_fi.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,23 @@
+
+; Language
+&EN,FI
+
+; SIS header: name, uid, version
+#{"Situations installer","Tilanteet asennus"},(0x2002CCCF),1,6,16
+
+; Default localized vendor name
+%{"Pastilli Labs", "Pastilli Labs"}
+
+; Default unique vendor name
+:"Pastilli Labs"
+
+; Manual PKG pre-rules from PRO files
+; Default dependency to Qt libraries
+; Default HW/platform dependencies
+[0x2003A678],0,0,0,{"S60ProductID", "S60ProductID"}
+; Default dependency to Qt Quick Components for Symbian library
+; Default dependency to QtMobility libraries
+
+"C:/Omat/situations/sis/situations.sisx" - "!:\private\2002CCCE\import\situations.sisx"
+@"C:/QtSDK/Symbian/SDKs/SymbianSR1Qt474//smartinstaller.sis",(0x2002CCCD)
+

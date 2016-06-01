@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/wlan/Action.qml</file>
+        <file>qml/wlan/Settings.qml</file>
+        <file>gfx/wlan/wlan_on.svg</file>
+        <file>ts/wlan/wlan_en.qm</file>
+        <file>ts/wlan/wlan_fi.qm</file>
+    </qresource>
+</RCC>

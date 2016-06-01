@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/location/Condition.qml</file>
+        <file>qml/location/Editor.qml</file>
+        <file>gfx/location/position.svg</file>
+        <file>gfx/location/map.svg</file>
+        <file>ts/location/location_en.qm</file>
+        <file>ts/location/location_fi.qm</file>
+    </qresource>
+</RCC>

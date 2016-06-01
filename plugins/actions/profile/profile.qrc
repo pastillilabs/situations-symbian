@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/profile/Action.qml</file>
+        <file>qml/profile/Editor.qml</file>
+        <file>qml/profile/Settings.qml</file>
+        <file>gfx/profile/profiles.svg</file>
+        <file>ts/profile/profile_en.qm</file>
+        <file>ts/profile/profile_fi.qm</file>
+    </qresource>
+</RCC>

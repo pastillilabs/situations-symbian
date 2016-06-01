@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/cell/Condition.qml</file>
+        <file>qml/cell/Editor.qml</file>
+        <file>gfx/cell/reception.svg</file>
+        <file>gfx/cell/stop.svg</file>
+        <file>ts/cell/cell_en.qm</file>
+        <file>ts/cell/cell_fi.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ts/common/common_en.qm</file>
+        <file>ts/common/common_fi.qm</file>
+    </qresource>
+</RCC>

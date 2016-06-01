@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ts/server/server_en.qm</file>
+        <file>ts/server/server_fi.qm</file>
+    </qresource>
+</RCC>

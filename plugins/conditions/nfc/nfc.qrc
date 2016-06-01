@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/nfc/Condition.qml</file>
+        <file>qml/nfc/Editor.qml</file>
+        <file>gfx/nfc/tag.svg</file>
+        <file>ts/nfc/nfc_en.qm</file>
+        <file>ts/nfc/nfc_fi.qm</file>
+    </qresource>
+</RCC>

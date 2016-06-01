@@ -1,0 +1,7 @@
+﻿Aplikácia "Situations" je najjednoduchší spôsob, ako mať svoj chytrý telefón chytrý! 
+
+Denne prispôsobujeme náš smartfón rôzným situáciám. V skutočnosti, by sa tieto zmeny mali vykonávať automaticky na základe toho, čo robíme a kde sme.
+
+Pomocou tejto aplikácie si môžete nastaviť svoje zariadenie tak, aby zmenil režim na Tichý, otvoril obľúbené aplikácie, predĺžil životnosť batérie, reagoval na neprijaté hovory, a ďalšie. Všetko sa vykonaná automaticky za vás!
+
+POZNÁMKA: Správne fungovanie aplikácie môže po inštalácii vyžadovať reštart zariadenia!

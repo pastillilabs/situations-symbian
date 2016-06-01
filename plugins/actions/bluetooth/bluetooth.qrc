@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/bluetooth/Action.qml</file>
+        <file>qml/bluetooth/Settings.qml</file>
+        <file>gfx/bluetooth/bluetooth.svg</file>
+        <file>ts/bluetooth/bluetooth_en.qm</file>
+        <file>ts/bluetooth/bluetooth_fi.qm</file>
+    </qresource>
+</RCC>
