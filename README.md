@@ -24,11 +24,10 @@ Downloads
 ---------
 
 The last official sisx package for Symbian is available here:
-http://www.pastillilabs.com/situations/symbian
+https://github.com/pastillilabs/situations-symbian/releases/tag/0
 
 Modern versions of the app are available here:
-http://www.pastillilabs.com/situations/android
-http://www.pastillilabs.com/situations/sailfish
+https://github.com/pastillilabs/packages/releases
 
 License
 -------
